@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//THIS IS MY GIT EDIT TEST//
 public class ConnectFour {
 
     public static void printBoard(char[][] array){ //Method prints the game board//
